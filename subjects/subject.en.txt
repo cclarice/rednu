@@ -1,12 +1,12 @@
-Assignment name  : ft_countdown
-Expected files   : ft_countdown.c
+Assignment name  : maff_alpha
+Expected files   : maff_alpha.c
 Allowed functions: write
 --------------------------------------------------------------------------------
 
-Write a program that displays all digits in descending order, followed by a
-newline.
+Write a program that displays the alphabet, with even letters in uppercase, and
+odd letters in lowercase, followed by a newline.
 
 Example:
-$> ./ft_countdown | cat -e
-9876543210$
-$>
+
+$> ./maff_alpha | cat -e
+aBcDeFgHiJkLmNoPqRsTuVwXyZ$
